@@ -6,9 +6,9 @@ This project is used as the basis of a number of tutorials and exercises, as par
 
 In this exercise we will learn about more expressive ways of creating new object instances using the Builder Pattern.
 
-### Step 1 - Create a domain package.
+### Step 1 - Create a serenitylabs.tutorials.vetclinic.domain package.
 
-First of all we need a place to store our domain model. Create a package called `domain` in the `serenitylabs.tutorials.vetclinic` package, in both `src/main/java` and `src/test/java`.
+First of all we need a place to store our serenitylabs.tutorials.vetclinic.domain model. Create a package called `serenitylabs.tutorials.vetclinic.domain` in the `serenitylabs.tutorials.vetclinic` package, in both `src/main/java` and `src/test/java`.
 
 ### Step 2 - Creating a Dog with a name
 
